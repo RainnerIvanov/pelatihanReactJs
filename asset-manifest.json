@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/css/main.bf68093d.css",
-    "main.js": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/js/main.8da449eb.js",
-    "static/js/787.a5cad257.chunk.js": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/js/787.a5cad257.chunk.js",
-    "index.html": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/index.html",
-    "main.bf68093d.css.map": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/css/main.bf68093d.css.map",
-    "main.8da449eb.js.map": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/js/main.8da449eb.js.map",
-    "787.a5cad257.chunk.js.map": "/RainnerIvanov/rainnerivanov.github.io-todolist.git/static/js/787.a5cad257.chunk.js.map"
+    "main.css": "/rainnerivanov.github.io-todolist.git/static/css/main.bf68093d.css",
+    "main.js": "/rainnerivanov.github.io-todolist.git/static/js/main.01d1bab9.js",
+    "static/js/787.a5cad257.chunk.js": "/rainnerivanov.github.io-todolist.git/static/js/787.a5cad257.chunk.js",
+    "index.html": "/rainnerivanov.github.io-todolist.git/index.html",
+    "main.bf68093d.css.map": "/rainnerivanov.github.io-todolist.git/static/css/main.bf68093d.css.map",
+    "main.01d1bab9.js.map": "/rainnerivanov.github.io-todolist.git/static/js/main.01d1bab9.js.map",
+    "787.a5cad257.chunk.js.map": "/rainnerivanov.github.io-todolist.git/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf68093d.css",
-    "static/js/main.8da449eb.js"
+    "static/js/main.01d1bab9.js"
   ]
 }
